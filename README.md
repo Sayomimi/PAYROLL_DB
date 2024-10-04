@@ -32,7 +32,8 @@
 - Analytical report on salary distribution, employee demographics, and department insights.
 - Visual represention of key metrics using Excel.
 
-### Basic Codes Used
+### Data Analysis
+Basic Codes Used
 ``` SQL
 CREATE TABLE Employees_Detail(
   employee_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
