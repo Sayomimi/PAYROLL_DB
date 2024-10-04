@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email_address,username,employment_date,id,employee_id,department,salary,id,bank,account_number
+1201,Oluwabusayo,Udogu,oluwabusayo.udogu@gmail.com,OLUUGO123,2015-10-02,1,1201,it,45000.467,1,"zenith bank",1297452835
+1202,Alvin,Daniel,alvin.daniel@gmail.com,ALVDA521,2014-03-02,2,1202,hr,30000.978,2,"zenith bank",8745379263
+1203,Oluwafeyi,Udogu,oluwafeyi.udogu@gmail.com,OLUFE345,2015-05-09,3,1203,operation,25000.120,3,"zenith bank",7562740256
+1204,Grant,James,grant.james@gmail.com,GRJA864,2015-10-02,4,1204,"customer care",20000.967,4,"zenith bank",5638209456
+1205,Joseph,Ayodeji,joseph.ayodeji@gmail.com,JOAY431,2016-06-02,5,1205,it,45000.467,5,"zenith bank",5789234510
+1206,Ruth,Paul,ruth.paul@gmail.com,RUPA247,2018-10-10,6,1206,hr,30000.970,6,"zenith bank",5683219456
+1207,Femi,Idowu,femi.idowu@gmail.com,FEID532,2015-03-02,7,1207,it,45000.467,7,"zenith bank",9563420127
+1208,Ojay,Shaun,ojay.shaun@gmail.com,SHAOJ894,2015-09-02,8,1208,operation,25000.123,8,"zenith bank",5638193452
+1209,Helen,George,helen.george@gmail.com,HEGEO643,2015-10-02,9,1209,operation,25000.123,9,"zenith bank",8452814795
+1210,Dune,Drake,dune.drake@gmail.com,DUDRA945,2017-07-04,10,1210,it,45000.467,10,"zenith bank",5638941286
