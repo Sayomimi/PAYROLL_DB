@@ -154,3 +154,13 @@ SELECT AVG(salary),
 GROUP BY department;
 
 ```
+
+### Data Visualization
+
+![BAR CHART PAYROLL](https://github.com/user-attachments/assets/b81753c7-56af-45dd-ab18-b6a571f9a131)
+
+![BAR_CHART_PAYROLL](https://github.com/user-attachments/assets/fff07723-b3f6-436e-b971-62e11e401de3)
+
+![PIE CHART PAYROLL](https://github.com/user-attachments/assets/2e6c4a06-05ae-448b-868a-740bdf0a7af1)
+
+
