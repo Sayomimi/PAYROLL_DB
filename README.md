@@ -12,18 +12,20 @@
 ---
 ### Key Analysis Areas
 
-Employee Data Management 
+1 Employee Data Management 
 - Maintain comprehensive employee records.
 - Ensure data integrity and consistency across tables.
-Salary Analysis
+  
+2 Salary Analysis
 - Determine salary distribution and trends
 - Compare salaries by department
-Payment Method Analysis
+  
+3 Payment Method Analysis
 - Identify account number
 
 ### Tools Used
-SQL : For database creation, management, and analysis
-Excel : For data visualization, trend analysis, and insights through pivot table and charts.
+- SQL : For database creation, management, and analysis
+- Excel : For data visualization, trend analysis, and insights through pivot table and charts.
 
 ### Expected Outcomes
 - A queryable database for storing and retrieving employee data.
